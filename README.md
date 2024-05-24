@@ -1,4 +1,4 @@
-## Project Septi Lutfiana
+## Project Design Septi Lutfiana
 
 # [ScanId](./SCAN%20ID/README.md)
 
